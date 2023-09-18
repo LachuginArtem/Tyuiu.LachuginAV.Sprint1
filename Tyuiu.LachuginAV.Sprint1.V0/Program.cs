@@ -13,7 +13,7 @@ namespace Tyuiu.LachuginAV.Sprint1.V17
         {
             DataService ds = new DataService();
             Console.Title = "Спринт #1 | Выполнил: Лачугин А. В. | АСОиУб-23-3";
-            Console.WriteLine("**************************************************************************");
+            Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
             Console.WriteLine("* Задание #0                                                              *");
