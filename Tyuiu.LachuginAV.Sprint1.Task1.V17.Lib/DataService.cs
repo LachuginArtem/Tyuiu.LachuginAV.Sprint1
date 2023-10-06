@@ -11,6 +11,7 @@ namespace Tyuiu.LachuginAV.Sprint1.Task1.V17.Lib
     {
         public double Calculate(double x, double y)
         {
+            
             return x * y * (5 - x);
         }
     }
