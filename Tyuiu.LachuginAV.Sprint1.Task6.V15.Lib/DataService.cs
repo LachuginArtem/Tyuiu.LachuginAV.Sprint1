@@ -12,6 +12,7 @@ namespace Tyuiu.LachuginAV.Sprint1.Task6.V15.Lib
         public bool CheckLettersCount(string value)
         {
             {
+               
                 int k = 0; int m = 0;
                 foreach (char i in value)
                 {
