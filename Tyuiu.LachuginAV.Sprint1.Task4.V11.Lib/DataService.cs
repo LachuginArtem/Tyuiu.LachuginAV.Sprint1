@@ -11,6 +11,7 @@ namespace Tyuiu.LachuginAV.Sprint1.Task4.V11.Lib
     {
         public double Calculate(double x, double y)
         {
+            
             return Math.Round(Math.Atan(x) / Math.Exp(y),3);
 
         }
