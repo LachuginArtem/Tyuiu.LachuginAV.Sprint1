@@ -11,6 +11,7 @@ namespace Tyuiu.LachuginAV.Sprint1.Task3.V2.Lib
     {
         public double PurchaseAmount(double priceNotebook, int amountNotebook, double pricePencil, int amountPencil)
         {
+           
             return Math.Round((priceNotebook * amountNotebook) + (pricePencil * amountPencil), 3);
         }
     }
