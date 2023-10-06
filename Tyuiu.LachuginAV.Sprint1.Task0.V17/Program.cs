@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.LachuginAV.Sprint1.V17.Lib;
-
-namespace Tyuiu.LachuginAV.Sprint1.V17
+using Tyuiu.LachuginAV.Sprint1.Task0.V17.Lib;
+namespace Tyuiu.LachuginAV.Sprint1.Task0.V17
 {
     class Program
     {

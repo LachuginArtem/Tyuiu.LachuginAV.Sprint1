@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{74BB43A6-562C-44BC-9CD5-C6CB26BE3D0A}</ProjectGuid>
+    <ProjectGuid>{BFD6AE07-3202-43D2-847B-0DBD05F045D9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.LachuginAV.Sprint1.V0</RootNamespace>
-    <AssemblyName>Tyuiu.LachuginAV.Sprint1.V0</AssemblyName>
+    <RootNamespace>Tyuiu.LachuginAV.Sprint1.Task0.V17</RootNamespace>
+    <AssemblyName>Tyuiu.LachuginAV.Sprint1.Task0.V17</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.LachuginAV.Sprint1.V0.Lib\Tyuiu.LachuginAV.Sprint1.V17.Lib.csproj">
-      <Project>{90c56993-be08-466f-847a-c36eb92c62a2}</Project>
-      <Name>Tyuiu.LachuginAV.Sprint1.V17.Lib</Name>
+    <ProjectReference Include="..\Tyuiu.LachuginAV.Sprint1.Task0.V17.Lib\Tyuiu.LachuginAV.Sprint1.Task0.V17.Lib.csproj">
+      <Project>{90fe01a0-1a86-40d0-ba2d-d563a6ebdd55}</Project>
+      <Name>Tyuiu.LachuginAV.Sprint1.Task0.V17.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

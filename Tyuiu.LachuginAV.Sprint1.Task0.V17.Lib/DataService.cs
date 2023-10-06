@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint1;
-
-namespace Tyuiu.LachuginAV.Sprint1.V17.Lib
+namespace Tyuiu.LachuginAV.Sprint1.Task0.V17.Lib
 {
-    public class DataService : ISprint1Task0V0
+    public class DataService : ISprint1Task0V17
     {
         public double Calculate()
         {
